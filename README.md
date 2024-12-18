@@ -53,4 +53,5 @@ You can find docs about our release process in [RELEASING.md](RELEASING.md).
 
 ## License
 
-[MIT](./LICENSE) &copy; [GitHub](https://github.com/)
+[MIT](./LICENSE)
+[GitHub](https://github.com/)
